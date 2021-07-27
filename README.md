@@ -17,3 +17,11 @@ Leave: Add leave details.
 Close:Close the header.
 
 ## Glimpses from the application(some snapshots)
+     
+![Image of Yaktocat](https://github.com/KRoy118/Online-MCQ-Quiz/blob/main/2021-01-23%20(1).png)
+![Image of Yaktocat](https://github.com/KRoy118/Online-MCQ-Quiz/blob/main/2021-01-23%20(2).png)
+![Image of Yaktocat](https://github.com/KRoy118/Online-MCQ-Quiz/blob/main/2021-01-23%20(3).png)
+![Image of Yaktocat](https://github.com/KRoy118/Online-MCQ-Quiz/blob/main/2021-01-23.png)
+![Image of Yaktocat](https://github.com/KRoy118/Online-MCQ-Quiz/blob/main/2021-01-24%20(1).png)
+![Image of Yaktocat](https://github.com/KRoy118/Online-MCQ-Quiz/blob/main/2021-01-24%20(2).png)
+![Image of Yaktocat](https://github.com/KRoy118/Online-MCQ-Quiz/blob/main/2021-01-24.png)
